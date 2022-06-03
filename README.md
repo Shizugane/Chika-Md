@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.owner = ['6281277604426','6285296120018']
+global.premium = ['6281277604426','6285296120018']
+global.ownernomer = '6281277604426'
+global.ownername = 'Shizugane Widana'
+global.botname = 'Miku-Md'
+global.footer = 'Shizugane Widana'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
+global.mygc = 'https://chat.whatsapp.com/IL7faBpZaNX0tYmSlPROCA'
 global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Miku-Md'
+global.author = 'Shizugane Widana'
+global.sessionName = 'Miku'
 ```
 
 ## ```HOW TO DEPLOY```
@@ -100,9 +100,9 @@ global.sessionName = 'chika'
 - [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
+- [Group 1](https://chat.whatsapp.com/IL7faBpZaNX0tYmSlPROCA)
+- [Group 2](https://chat.whatsapp.com/E1pG59TReKIKMZ7n2T1nR8)
+- [Group 3](https://chat.whatsapp.com/Gc0C3MEmHbEFo9loqR9QKI)
 
 # Thanks to
 - [Dika](https://github.com/DikaArdnt) <br> 
